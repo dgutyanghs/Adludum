@@ -30,7 +30,7 @@
 
 
 
-### Built With 
+### Built With Tailwindcss
 
 ![Tailwindcss](https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.944c5d0ef628083bb316f9b3d643385c86bcdb3d.svg)
 
