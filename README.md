@@ -22,7 +22,8 @@
 ## About The Project
 
 ### That's a screenshot of website.
-![Screen Shot](Screenshot.png)
+<!-- ![Screen Shot](Screenshot.png) -->
+<img src="./Screenshot.png" alt="screen shot" width="400px" height="auto">
 
 ### A good tutorial for Tailwindcss study.
 
@@ -32,7 +33,7 @@
 
 ### Built With Tailwindcss
 
-![Tailwindcss](https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.944c5d0ef628083bb316f9b3d643385c86bcdb3d.svg)
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.944c5d0ef628083bb316f9b3d643385c86bcdb3d.svg" alt="tailwind css" width="200px" height="auto">
 
 
 
