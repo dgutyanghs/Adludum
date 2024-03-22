@@ -21,18 +21,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screen Shot][product-screenshot](Screenshot.png)
+### That's a screenshot of website.
+![Screen Shot](Screenshot.png)
 
-* That's a screenshot of website.
-* A good tutorial for Tailwindcss study.
-
-
+### A good tutorial for Tailwindcss study.
 
 
 
-### Built With
 
-![Tailwindcss!](https://tailwindcss.com/)
+
+### Built With 
+
+![Tailwindcss](https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.944c5d0ef628083bb316f9b3d643385c86bcdb3d.svg)
 
 
 
